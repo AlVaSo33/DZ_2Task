@@ -1,0 +1,15 @@
+C:\Users\solov\OneDrive\Рабочий стол\DZ_2\Task_1Function\obj\Debug\net6.0\Task_1Function.csproj.AssemblyReference.cache
+C:\Users\solov\OneDrive\Рабочий стол\DZ_2\Task_1Function\obj\Debug\net6.0\Task_1Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solov\OneDrive\Рабочий стол\DZ_2\Task_1Function\obj\Debug\net6.0\Task_1Function.AssemblyInfoInputs.cache
+C:\Users\solov\OneDrive\Рабочий стол\DZ_2\Task_1Function\obj\Debug\net6.0\Task_1Function.AssemblyInfo.cs
+C:\Users\solov\OneDrive\Рабочий стол\DZ_2\Task_1Function\obj\Debug\net6.0\Task_1Function.csproj.CoreCompileInputs.cache
+C:\Users\solov\OneDrive\Рабочий стол\DZ_2\Task_1Function\bin\Debug\net6.0\Task_1Function.exe
+C:\Users\solov\OneDrive\Рабочий стол\DZ_2\Task_1Function\bin\Debug\net6.0\Task_1Function.deps.json
+C:\Users\solov\OneDrive\Рабочий стол\DZ_2\Task_1Function\bin\Debug\net6.0\Task_1Function.runtimeconfig.json
+C:\Users\solov\OneDrive\Рабочий стол\DZ_2\Task_1Function\bin\Debug\net6.0\Task_1Function.dll
+C:\Users\solov\OneDrive\Рабочий стол\DZ_2\Task_1Function\bin\Debug\net6.0\Task_1Function.pdb
+C:\Users\solov\OneDrive\Рабочий стол\DZ_2\Task_1Function\obj\Debug\net6.0\Task_1Function.dll
+C:\Users\solov\OneDrive\Рабочий стол\DZ_2\Task_1Function\obj\Debug\net6.0\refint\Task_1Function.dll
+C:\Users\solov\OneDrive\Рабочий стол\DZ_2\Task_1Function\obj\Debug\net6.0\Task_1Function.pdb
+C:\Users\solov\OneDrive\Рабочий стол\DZ_2\Task_1Function\obj\Debug\net6.0\Task_1Function.genruntimeconfig.cache
+C:\Users\solov\OneDrive\Рабочий стол\DZ_2\Task_1Function\obj\Debug\net6.0\ref\Task_1Function.dll
