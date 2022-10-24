@@ -6,7 +6,6 @@
 int GetSecondDigit(int num)
 {
     int secondDigit = (num / 10) % 10;
-    int result = secondDigit;
     return (secondDigit);
 }
 
@@ -16,3 +15,4 @@ int num = int.Parse(Console.ReadLine()!);
 int secondDigit = GetSecondDigit(num);
 
 Console.WriteLine("Вторая цифра введенного числа: " + secondDigit);
+
